@@ -1,0 +1,42 @@
+/*
+Theme Name: Noca Fabrica
+Theme URI: http://wordpress.org/themes/php.developer
+Author: Emerson Rodrigues
+Author URI: http://tante.org/
+Description: Este tema tenta atingir as fabricas cuja seus clientes são mais arrojados porem támbem são outras empresas. Por isso não deixa de ser construpida de forma padrão porém com um leve design.
+Version: 1.0
+License: 
+License URI:  
+Tags: black, brown, orange, tan, white, yellow, light, one-column, two-columns, right-sidebar, flexible-width, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, translation-ready
+ 
+*/
+
+h1{
+    color: red;
+}
+ul { 
+    background: #ebe0e0;
+    padding: 3%;
+    display: inline-block;
+}
+li {
+    width: 31%;
+    padding: 0px;
+    background: #f4f0f0;
+    box-shadow: 2px 2px 9px grey;
+    border-radius: 5px;
+	float: left;
+	margin: 1% 1% 1% 1%;
+}
+img {
+	width: 100%;
+	height: auto;
+}
+h2 { 
+    color: white;
+    text-shadow: 2px 2px 2px black;
+	font-size: 120%;
+}
+li.imoveis-listagem-item article {
+    padding: 5%;
+}
